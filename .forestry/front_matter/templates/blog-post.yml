@@ -42,3 +42,5 @@ fields:
       path: authors
   label: author
   description: Select authors for the post
+pages:
+- content/posts/design-history.md
