@@ -1,8 +1,9 @@
 ---
 date: 2021-04-03T09:03:37Z
 hero_image: "/content/images/sharon-mccutcheon-Th_WZMUPnO4-unsplash.jpg"
-tags: []
-author: ''
+tags:
+- projectmanagement
+author: Robert-Jan Korteschiel
 title: Project planning and roadmaps
 
 ---
