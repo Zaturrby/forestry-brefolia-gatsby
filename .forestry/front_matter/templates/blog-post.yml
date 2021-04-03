@@ -25,7 +25,7 @@ fields:
 - name: tags
   type: tag_list
   default: []
-  label: Tags
+  label: tags
   description: A field to describe certain random attributes of the blogpost
   showOnly:
     value: Robert Thoreau
@@ -40,5 +40,5 @@ fields:
       section: author-list
       file: 
       path: 
-  label: Author
+  label: author
   description: Select authors for the post
