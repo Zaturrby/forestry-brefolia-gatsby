@@ -7,4 +7,3 @@ author: Robert-Jan Korteschiel
 title: Design history of products
 
 ---
-A short history about the design of Setellite. There are things you need to know.
