@@ -22,4 +22,4 @@ There are several Setellite features we're thinking about: what problem are we s
     * Suntracker
  9. Views that connect script, storyboards, and VFX
 10. Connect to on-set tools, like monitors and retrieve data from them
-    * 
+    * OCR monitor information
