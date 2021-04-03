@@ -1,6 +1,6 @@
 ---
 date: 2021-04-03T09:03:37Z
-hero_image: "/content/images/stil-ck0i9dnjtj0-unsplash.jpg"
+hero_image: "/content/images/alexander-schimmeck-io2zwcve8ci-unsplash.jpg"
 tags:
 - projectmanagement
 author: Robert-Jan Korteschiel
