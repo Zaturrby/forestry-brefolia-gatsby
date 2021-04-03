@@ -5,19 +5,6 @@ fields:
 - type: text
   name: title
   label: title
-- name: author
-  type: select
-  default: ''
-  config:
-    required: true
-    options: []
-    source:
-      type: documents
-      section: author-list
-      file: content/data/authors.yaml
-      path: authors
-  label: author
-  description: Enter author of post
 - name: date
   type: datetime
   label: date
@@ -42,3 +29,16 @@ fields:
   description: A field to describe certain random attributes of the blogpost
   showOnly:
     value: Robert Thoreau
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: author-list
+      file: 
+      path: 
+  label: Author
+  description: Select authors for the post
