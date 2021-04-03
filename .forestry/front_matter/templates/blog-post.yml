@@ -36,18 +36,12 @@ fields:
   description: Enter hero image for blog post here
   default: "/content/images/sarah-dorweiler-9Z1KRIfpBTM-unsplash.jpg"
 - name: tags
-  type: select
-  default: ''
-  config:
-    required: false
-    options: []
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+  type: tag_list
+  default: []
   label: Tags
-  description: Describe general attributes of pst
+  description: A field to describe certain random attributes of the blogpost
+  showOnly:
+    value: Robert Thoreau
 pages:
 - content/posts/an-essay-on-walking.md
 - content/posts/ne-te-quaesiveris-extra.md
