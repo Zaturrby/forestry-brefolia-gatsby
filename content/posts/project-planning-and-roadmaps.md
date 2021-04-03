@@ -28,7 +28,7 @@ So yesterday I made another attempt at managing a product in a structured fashio
 What became clear is that I was messing around with multiple entities:
 
 * **Requirements:** Quite general things like security or usability
-* **Processes:** content strategy, design workflows, CI/CD, technology and user monitoring & analytics, or even marketing.
+* **Processes:** content strategy, marketing, design workflows, CI/CD, technology and user monitoring & analytics, etc.
 * **Features:** Things that the user would really like to have or we would like to build for some reason.
 * **Issues:** Things that a causing us or users problems, like bugs and reported UI / UX problems, often things that look small but might be deceptively complicated.
 * **Tasks or sub-features:** Smaller entities to break up the complexity of the larger entities.
