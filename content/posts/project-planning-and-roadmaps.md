@@ -56,6 +56,6 @@ I got lost because I did not consider what a feature truly was. The level of abs
 
 As for how I am going to write them, I also remembered something about user stories I read a while back. A user story is written like this, according to Wikipedia: 
 
-> As a <role> I can <capability>, so that <receive benefit>
+> As a -_role-_ I can -_capability-_, so that -_receive benefit-_
 
 While I hated the formatting of the various way of writing them, which I feel removes all the creativity from the process, I do like the concerns they address. I want to present a feature with a certain role and task in mind, which we can solve well in order to deliver value. I also want to describe the context, a where, and a when of the feature in order to situate it a bit. 
