@@ -4,7 +4,7 @@ hero_image: "/content/images/igor-son-FV_PxCqgtwc-unsplash.jpg"
 tags:
 - planetx
 author: Robert-Jan Korteschiel
-title: Design History
+title: Design history of products
 
 ---
 A short history about the design of Setellite. There are things you need to know.
