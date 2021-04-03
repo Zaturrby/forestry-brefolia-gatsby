@@ -44,4 +44,5 @@ fields:
   description: Select authors for the post
 pages:
 - content/posts/design-history.md
+- content/posts/project-planning-and-roadmaps.md
 - content/posts/research-into-cms-systems.md
