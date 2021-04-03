@@ -42,7 +42,3 @@ fields:
   description: A field to describe certain random attributes of the blogpost
   showOnly:
     value: Robert Thoreau
-pages:
-- content/posts/ne-te-quaesiveris-extra.md
-- content/posts/on-the-geneology-of-morals.md
-- content/posts/song-of-myself.md
