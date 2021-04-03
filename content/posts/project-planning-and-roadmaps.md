@@ -36,7 +36,7 @@ What became clear is that I was messing around with multiple entities:
 I also wanted to apply them against time, so I started using:
 
 * **Timeframes:** Basically a start and end date for an entity
-* **Releases:** Groupings of entities within a timeframe to create packages of features
+* **Releases:** Groupings of entities within a timeframe to create packages of features that deliver a certain value
 
 Note that this was already an improvement, I tried to do this a few times before, and sometimes I even went down to a technological level in planning by using things like:
 
