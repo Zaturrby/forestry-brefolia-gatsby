@@ -36,9 +36,9 @@ fields:
     required: false
     options: []
     source:
-      type: pages
+      type: documents
       section: author-list
-      file: 
-      path: 
+      file: content/data/authors.yaml
+      path: authors
   label: author
   description: Select authors for the post
