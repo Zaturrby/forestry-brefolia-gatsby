@@ -43,7 +43,7 @@ Note that this was already an improvement, I tried to do this a few times before
 * **Components, modules, or views:** Large entities by which you break up a system
 * **Interfaces:** The boundaries between components
 * **Actions or events:** The things that can happen within the system
-* **Functions or objects:** Even smaller bit and pieces of the application
+* **Functions or objects:** Even smaller bits and pieces of the application
 
 Apparently, I'm still dealing with the question of which abstraction level I should use to think about these things. Each of these entities describes important things, yet when to use which is a thing of experience. I was bringing my own knowledge as a developer and I was bringing some knowledge as an information scientist. I was also engaging with the possibilities and constraints that Productboard was pushing onto me. But all of these different views actually didn't make things easier, it actually made things complicated. Perhaps because I don't understand the boundaries between all of these concepts all that well or perhaps because this is always very hard to do well. In truth, it doesn't matter what my level of knowledge is, the job still needs to be done else we're back to"let's see what happens" or "let's go plan & design in code". That kind of defeat cannot be tolerated.
 
